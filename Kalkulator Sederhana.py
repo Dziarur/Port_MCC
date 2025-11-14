@@ -41,7 +41,7 @@ while(True):
     print("6. Faktorial")
 
     operasi = input("Pilih Operasi (1-6) = ")
-    if operasi in ["1","2","3","4","5","6"]:
+    if operasi in ["1","2","3","4","5"]:
         a = float(input("Masukkan angka pertama = "))
         b = float(input("Masukkan angka kedua = "))
    
