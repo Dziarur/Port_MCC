@@ -10,7 +10,7 @@ def kali(a,b):
 def bagi(a,b):
     if b == 0:
         print("Tidak bisa membagi dengan 0")
-        return
+        return 
     else:
         return a / b
     
