@@ -14,3 +14,4 @@ while(True):
         pilih = input("Apakah Nyerah (y/n) = ")
         if pilih == "y":
             print(f"angkanya adalah = {tebak_angka}")
+            break
